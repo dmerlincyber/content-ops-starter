@@ -72,7 +72,7 @@ sections:
           - pr-16
   - type: FeaturedItemsSection
     title:
-      text: Resent Projects
+      text: Our Facts
       color: text-dark
       styles:
         self:
