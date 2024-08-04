@@ -78,7 +78,7 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: Subtitle goes here
+    subtitle: Get inspiered
     items:
       - type: FeaturedItem
         title: 500k
