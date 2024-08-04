@@ -7,7 +7,7 @@ sections:
       text: Unblock the best potential of your site
       color: text-dark
       type: TitleBlock
-    subtitle: Subtitle goes here
+    subtitle: WE DO IT ALL
     text: >
       A Netlify Create website is a git repo that you own. Every code commit is
       instantly reflected in the visual editor and since every visual edit is a
