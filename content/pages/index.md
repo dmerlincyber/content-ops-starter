@@ -82,7 +82,7 @@ sections:
     items:
       - type: FeaturedItem
         title: '29'
-        subtitle: Numbers Done
+        subtitle: Local Planning Authorities
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
