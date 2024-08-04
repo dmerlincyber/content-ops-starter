@@ -83,10 +83,10 @@ sections:
       - type: FeaturedItem
         title: '29'
         subtitle: Local Planning Authorities
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          Since 2016, we have worked with more than 29 planning authorities,
+          delivering schemes that have been praised by locals for their
+          thoughtful design and positive impact on the community.
         actions: []
         elementId: null
         colors: bg-neutralAlt-fg-dark
