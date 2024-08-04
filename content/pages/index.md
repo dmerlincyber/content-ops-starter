@@ -9,9 +9,28 @@ sections:
       type: TitleBlock
     subtitle: WE DO IT ALL
     text: >
-      A Netlify Create website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
+      Welcome to Prestige Planning, your trusted planning consultant based in
+      the vibrant heart of Hackney, London. With a dedication to precision and a
+      passion for excellence, we offer a comprehensive suite of services
+      tailored to meet all your planning and development needs. From meticulous
+      site surveys and expertly crafted floor plans to cutting-edge 3D
+      visualizations, our team brings your vision to life with unmatched
+      expertise. We specialize in providing insightful planning advice, handling
+      submissions to local planning authorities, and navigating the complexities
+      of the approval process with ease.
+
+
+      At Prestige Planning, we offer specialized services including the design
+      of Houses in Multiple Occupation (HMOs), the negotiation and preparation
+      of party wall agreements, and the removal of covenants from land registry
+      titles. Our expertise extends to appealing planning decisions, ensuring
+      you have the best possible chance of achieving your goals. Additionally,
+      we provide comprehensive building control services, ensuring that every
+      aspect of your project meets the highest standards of quality and
+      compliance. We are committed to guiding you through every step of the
+      planning process, delivering personalized solutions that are perfectly
+      aligned with your vision. Explore our services and discover how Prestige
+      Planning can turn your project into a reality.
     actions:
       - label: Get started
         altText: ''
