@@ -32,18 +32,18 @@ sections:
       aligned with your vision. Explore our services and discover how Prestige
       Planning can turn your project into a reality.
     actions:
-      - label: Get started
+      - label: Contact Us
         altText: ''
-        url: /
+        url: /contact
         showIcon: false
         icon: arrowRight
         iconPosition: right
         style: secondary
         elementId: ''
         type: Button
-      - label: See Tutorials
+      - label: Projects
         altText: ''
-        url: /
+        url: /projects
         showIcon: true
         icon: arrowRight
         iconPosition: right
@@ -51,7 +51,7 @@ sections:
         elementId: ''
         type: Link
     media:
-      url: /images/main-hero.svg
+      url: /images/image.png
       altText: Unblock your team boost your time to production preview
       elementId: ''
       type: ImageBlock
@@ -189,7 +189,7 @@ sections:
         textAlign: center
   - subtitle: Councils we worek with
     images:
-      - url: /images/empathy-logo.svg
+      - url: /images/5bbc5d90c7d2e-thumbnail.jpg
         altText: Empathy logo
         type: ImageBlock
       - url: /images/wellster-logo.svg
@@ -765,7 +765,7 @@ sections:
 seo:
   metaTitle: Home - Demo site
   metaDescription: This demo site is built with Netlify Create.
-  socialImage: /images/main-hero.jpg
+  socialImage: /images/image.png
   type: Seo
 type: PageLayout
 ---
