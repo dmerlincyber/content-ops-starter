@@ -187,7 +187,7 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
-  - subtitle: Councils we worek with
+  - subtitle: Councils we recently worked with
     images:
       - url: /images/hackney-borough-logo.png
         altText: Empathy logo
