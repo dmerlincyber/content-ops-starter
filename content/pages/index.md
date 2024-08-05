@@ -189,11 +189,11 @@ sections:
         textAlign: center
   - subtitle: Councils we recently worked with
     images:
-      - url: /images/hackney-borough-logo.png
-        altText: Empathy logo
-        type: ImageBlock
       - url: /images/wellster-logo.svg
         altText: Wellster logo
+        type: ImageBlock
+      - url: /images/hackney-borough-logo.png
+        altText: Empathy logo
         type: ImageBlock
       - url: /images/vise-logo.svg
         altText: Vise logo
