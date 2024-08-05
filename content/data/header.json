@@ -43,7 +43,7 @@
             "altText": "Contact us",
             "links": [
                 {
-                    "label": "Dropdown item",
+                    "label": "Contact us",
                     "url": "/",
                     "icon": "arrowRight",
                     "iconPosition": "right",
