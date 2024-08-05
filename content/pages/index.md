@@ -32,7 +32,7 @@ sections:
       aligned with your vision. Explore our services and discover how Prestige
       Planning can turn your project into a reality.
     actions:
-      - label: Get started
+      - label: Contact Us
         altText: ''
         url: /
         showIcon: false
