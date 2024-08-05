@@ -287,7 +287,7 @@ sections:
         self:
           textAlign: center
       type: Badge
-    colors: bg-dark-fg-light
+    colors: bg-light-fg-dark
     styles:
       self:
         flexDirection: col
