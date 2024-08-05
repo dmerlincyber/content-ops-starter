@@ -34,7 +34,7 @@ sections:
     actions:
       - label: Contact Us
         altText: ''
-        url: /
+        url: /contact
         showIcon: false
         icon: arrowRight
         iconPosition: right
