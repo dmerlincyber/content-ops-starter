@@ -189,7 +189,7 @@ sections:
         textAlign: center
   - subtitle: Councils we worek with
     images:
-      - url: /images/empathy-logo.svg
+      - url: /images/5bbc5d90c7d2e-thumbnail.jpg
         altText: Empathy logo
         type: ImageBlock
       - url: /images/wellster-logo.svg
