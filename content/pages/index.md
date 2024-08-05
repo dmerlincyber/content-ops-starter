@@ -189,7 +189,7 @@ sections:
         textAlign: center
   - subtitle: Councils we worek with
     images:
-      - url: /images/5bbc5d90c7d2e-thumbnail.jpg
+      - url: /images/hackney-borough-logo.png
         altText: Empathy logo
         type: ImageBlock
       - url: /images/wellster-logo.svg
