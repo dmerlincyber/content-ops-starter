@@ -44,7 +44,7 @@
         {
             "label": "Contact Us",
             "altText": "Sign up",
-            "url": "/",
+            "url": "/contact",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
