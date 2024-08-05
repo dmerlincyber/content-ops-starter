@@ -42,17 +42,7 @@
         {
             "label": "Contact Us",
             "altText": "Contact us",
-            "links": [
-                {
-                    "label": "Contact us",
-                    "url": "/contact",
-                    "icon": "arrowRight",
-                    "iconPosition": "right",
-                    "style": "secondary",
-                    "type": "Link",
-                    "altText": "Contact"
-                }
-            ],
+            "links": [],
             "labelStyle": "secondary",
             "type": "SubNav"
         }
