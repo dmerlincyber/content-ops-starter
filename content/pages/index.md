@@ -43,7 +43,7 @@ sections:
         type: Button
       - label: Projects
         altText: ''
-        url: /project
+        url: /projects
         showIcon: true
         icon: arrowRight
         iconPosition: right
