@@ -52,7 +52,7 @@
         },
         {
             "label": "Log in",
-            "url": "/",
+            "url": "/contactadmin",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "primary",
