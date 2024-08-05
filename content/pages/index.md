@@ -207,7 +207,7 @@ sections:
       - url: /images/sanity-logo.svg
         altText: Sanity logo
         type: ImageBlock
-      - url: /images/rangle-logo.svg
+      - url: /images/5141db72-5401-443a-986f-f947f1232c14.png
         altText: Rangle logo
         type: ImageBlock
     motion: move-to-left
