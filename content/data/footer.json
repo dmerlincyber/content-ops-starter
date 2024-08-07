@@ -57,6 +57,17 @@
                 "style": "secondary",
                 "type": "Link",
                 "altText": "Unit 6 Grosvenor WayLondonE5 9ND"
+            },
+            {
+                "type": "Link",
+                "label": "Send email",
+                "altText": "Play",
+                "url": "/",
+                "showIcon": true,
+                "icon": "mail",
+                "iconPosition": "right",
+                "style": "secondary",
+                "elementId": ""
             }
         ],
         "type": "FooterLinksGroup"
