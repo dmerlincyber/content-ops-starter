@@ -188,10 +188,7 @@ sections:
       subtitle:
         textAlign: center
   - subtitle: Councils we recently worked with
-    images:
-      - url: /images/5141db72-5401-443a-986f-f947f1232c14.png
-        altText: Rangle logo
-        type: ImageBlock
+    images: []
     motion: move-to-left
     colors: bg-light-fg-dark
     styles:
