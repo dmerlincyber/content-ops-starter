@@ -45,7 +45,7 @@
                 "url": "/tel:02039353434",
                 "icon": "chevronBigRight",
                 "iconPosition": "left",
-                "style": "primary",
+                "style": "secondary",
                 "type": "Link",
                 "showIcon": true
             },
