@@ -897,5 +897,7 @@ seo:
   socialImage: /images/image.png
   type: Seo
   addTitleSuffix: true
+  metaTags:
+    - type: MetaTag
 type: PageLayout
 ---
