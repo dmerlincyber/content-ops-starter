@@ -479,7 +479,7 @@ sections:
         self:
           textAlign: left
       type: TitleBlock
-    subtitle: Section with a video subtitle
+    subtitle: ''
     text: ''
     actions: []
     media:
