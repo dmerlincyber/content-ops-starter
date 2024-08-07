@@ -44,7 +44,7 @@
                 "altText": "phone number",
                 "url": "/tel:02039353434",
                 "icon": "chevronBigRight",
-                "iconPosition": "right",
+                "iconPosition": "left",
                 "style": "secondary",
                 "type": "Link",
                 "showIcon": true
