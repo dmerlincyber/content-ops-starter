@@ -896,5 +896,6 @@ seo:
   metaDescription: Prestige Planning Consultants
   socialImage: /images/image.png
   type: Seo
+  addTitleSuffix: true
 type: PageLayout
 ---
