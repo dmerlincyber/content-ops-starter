@@ -42,7 +42,7 @@
             {
                 "label": "020 3935 3434",
                 "altText": "phone number",
-                "url": "/tel:02039353434",
+                "url": "tel:02039353434",
                 "icon": "chevronBigRight",
                 "iconPosition": "left",
                 "style": "secondary",
@@ -51,7 +51,7 @@
             },
             {
                 "label": "Unit 6 Grosvenor Way, London, E5 9ND",
-                "url": "/https://www.google.com/maps/place/Prestige+planning+consultants+Ltd/@51.5663555,-0.0542932,682m/data=!3m2!1e3!4b1!4m6!3m5!1s0x48761d00250b5439:0x727a768874b4710!8m2!3d51.5663522!4d-0.0517183!16s%2Fg%2F11vxh63xnc",
+                "url": "https://www.google.com/maps/place/Prestige+planning+consultants+Ltd/@51.5663555,-0.0542932,682m/data=!3m2!1e3!4b1!4m6!3m5!1s0x48761d00250b5439:0x727a768874b4710!8m2!3d51.5663522!4d-0.0517183!16s%2Fg%2F11vxh63xnc",
                 "icon": "arrowRight",
                 "iconPosition": "right",
                 "style": "secondary",
@@ -62,7 +62,7 @@
                 "type": "Link",
                 "label": "Send email",
                 "altText": "Play",
-                "url": "/mailto:mdmplanning71@gmail.com",
+                "url": "mailto:mdmplanning71@gmail.com",
                 "showIcon": true,
                 "icon": "mail",
                 "iconPosition": "right",
