@@ -1,33 +1,33 @@
 {
     "logo": {
-        "url": "/images/logo-white.svg",
+        "url": "/images/Prestige Building & Planning Logo Social Media-01.png",
         "altText": "Logo light",
         "type": "ImageBlock"
     },
     "text": "Making the imposible work!\n",
     "primaryLinks": {
-        "title": "Product",
+        "title": "about",
         "links": [
             {
-                "label": "Features",
+                "label": "Service",
                 "altText": "Features page",
-                "url": "/",
+                "url": "/services",
                 "icon": "arrowRight",
                 "iconPosition": "right",
                 "style": "secondary",
                 "type": "Link"
             },
             {
-                "label": "Pricing",
-                "url": "/pricing",
+                "label": "Projects",
+                "url": "/products",
                 "icon": "arrowRight",
                 "iconPosition": "right",
                 "style": "secondary",
                 "type": "Link"
             },
             {
-                "label": "Documentation",
-                "url": "/",
+                "label": "Careeres",
+                "url": "/careeres",
                 "icon": "arrowRight",
                 "iconPosition": "right",
                 "style": "secondary",
@@ -37,24 +37,37 @@
         "type": "FooterLinksGroup"
     },
     "secondaryLinks": {
-        "title": "Company",
+        "title": "Contact us",
         "links": [
             {
-                "label": "Careers",
-                "altText": "careers page",
-                "url": "/careers",
-                "icon": "arrowRight",
-                "iconPosition": "right",
+                "label": "020 3935 3434",
+                "altText": "phone number",
+                "url": "/tel:02039353434",
+                "icon": "chevronBigRight",
+                "iconPosition": "left",
                 "style": "secondary",
-                "type": "Link"
+                "type": "Link",
+                "showIcon": true
             },
             {
-                "label": "Blog",
-                "url": "/blog",
+                "label": "Unit 6 Grosvenor Way, London, E5 9ND",
+                "url": "/https://www.google.com/maps/place/Prestige+planning+consultants+Ltd/@51.5663555,-0.0542932,682m/data=!3m2!1e3!4b1!4m6!3m5!1s0x48761d00250b5439:0x727a768874b4710!8m2!3d51.5663522!4d-0.0517183!16s%2Fg%2F11vxh63xnc",
                 "icon": "arrowRight",
                 "iconPosition": "right",
                 "style": "secondary",
-                "type": "Link"
+                "type": "Link",
+                "altText": "Unit 6 Grosvenor WayLondonE5 9ND"
+            },
+            {
+                "type": "Link",
+                "label": "Send email",
+                "altText": "Play",
+                "url": "/mailto:mdmplanning71@gmail.com",
+                "showIcon": true,
+                "icon": "mail",
+                "iconPosition": "right",
+                "style": "secondary",
+                "elementId": ""
             }
         ],
         "type": "FooterLinksGroup"
@@ -73,14 +86,8 @@
             "type": "Social"
         },
         {
-            "altText": "LinkedIn link",
-            "url": "https://www.linkedin.com/company/netlify",
-            "icon": "linkedin",
-            "type": "Social"
-        },
-        {
             "altText": "Email link",
-            "url": "/",
+            "url": "/mailto:mdmplanning71@gmail.com",
             "icon": "mail",
             "type": "Social"
         }
