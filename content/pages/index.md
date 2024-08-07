@@ -190,7 +190,7 @@ sections:
   - subtitle: Councils we recently worked with
     images:
       - type: ImageBlock
-        url: /images/hero2.svg
+        url: /images/download (3).png
         altText: Image alt text placeholder
         elementId: ''
         styles:
