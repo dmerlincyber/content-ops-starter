@@ -62,7 +62,7 @@
                 "type": "Link",
                 "label": "Send email",
                 "altText": "Play",
-                "url": "/",
+                "url": "/mailto:mdmplanning71@gmail.com",
                 "showIcon": true,
                 "icon": "mail",
                 "iconPosition": "right",
