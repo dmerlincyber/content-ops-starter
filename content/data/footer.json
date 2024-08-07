@@ -27,7 +27,7 @@
             },
             {
                 "label": "Careeres",
-                "url": "/",
+                "url": "/careeres",
                 "icon": "arrowRight",
                 "iconPosition": "right",
                 "style": "secondary",
