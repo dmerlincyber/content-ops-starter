@@ -192,9 +192,6 @@ sections:
       - url: /images/hackney-borough-logo.png
         altText: Empathy logo
         type: ImageBlock
-      - url: /images/vise-logo.svg
-        altText: Vise logo
-        type: ImageBlock
       - url: /images/contenful-logo.svg
         altText: Contentful logo
         type: ImageBlock
