@@ -473,7 +473,7 @@ sections:
     type: DividerSection
   - type: GenericSection
     title:
-      text: See our
+      text: See our recent schemes
       color: text-dark
       styles:
         self:
