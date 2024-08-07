@@ -928,7 +928,7 @@ sections:
       subtitle:
         textAlign: center
     type: FeaturedItemsSection
-  - subtitle: Section with a form subtitle
+  - subtitle: Let us know you are waiting.
     text: ''
     media:
       fields:
