@@ -189,9 +189,6 @@ sections:
         textAlign: center
   - subtitle: Councils we recently worked with
     images:
-      - url: /images/contenful-logo.svg
-        altText: Contentful logo
-        type: ImageBlock
       - url: /images/logo.png
         altText: Telus logo
         type: ImageBlock
