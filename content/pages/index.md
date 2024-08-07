@@ -893,7 +893,7 @@ sections:
     type: GenericSection
 seo:
   metaTitle: Home Prestige Planning
-  metaDescription: This demo site is built with Netlify Create.
+  metaDescription: Prestige Planning Consultants
   socialImage: /images/image.png
   type: Seo
 type: PageLayout
