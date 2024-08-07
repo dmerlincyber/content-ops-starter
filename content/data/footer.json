@@ -43,7 +43,7 @@
                 "label": "020 3935 3434",
                 "altText": "phone number",
                 "url": "/tel:02039353434",
-                "icon": "arrowRight",
+                "icon": "chevronBigRight",
                 "iconPosition": "right",
                 "style": "secondary",
                 "type": "Link",
