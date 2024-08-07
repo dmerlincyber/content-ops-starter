@@ -189,9 +189,6 @@ sections:
         textAlign: center
   - subtitle: Councils we recently worked with
     images:
-      - url: /images/logo.png
-        altText: Telus logo
-        type: ImageBlock
       - url: /images/sanity-logo.svg
         altText: Sanity logo
         type: ImageBlock
