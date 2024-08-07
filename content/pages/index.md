@@ -197,7 +197,7 @@ sections:
           self:
             borderRadius: medium
       - type: ImageBlock
-        url: /images/download (1).png
+        url: /images/download (9).png
         altText: Image alt text placeholder
         elementId: ''
         styles:
