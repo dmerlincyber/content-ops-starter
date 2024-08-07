@@ -51,7 +51,7 @@ sections:
         elementId: ''
         type: Link
     media:
-      url: /images/image.png
+      url: /images/Prestige Building & Planning Logo Final.png
       altText: Unblock your team boost your time to production preview
       elementId: ''
       type: ImageBlock
